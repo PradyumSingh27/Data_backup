@@ -1,5 +1,5 @@
 
-#Web Scrape methology:
+# Web Scrape methology:
 
 #### 🛰️ How I Collected Data using RapidAPI
 
