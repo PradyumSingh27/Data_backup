@@ -118,7 +118,6 @@ flowchart TD
     E --> F[Fetch tweets by query]
     F --> G[Store tweets as CSV files]
     G --> H[Combine datasets for analysis]
-    H --> I[Perform sentiment analysis and visualization]
-    I --> J[End]
+    H --> I[End]
 
 
